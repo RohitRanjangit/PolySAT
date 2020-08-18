@@ -1,6 +1,5 @@
 # polySAT
 A SAT solver which implements DPLL algorithm.
-Made under an assignment done under Prof. Subhajit Roy
 
 # HOW TO RUN
             g++ -o polysat polysat.cpp
